@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ModTheCube/Scene.unity
+    guid: 0837f2ea600db39419ef0a366d70b9de
   m_configObjects: {}
